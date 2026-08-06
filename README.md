@@ -15,7 +15,7 @@ Email Me 👉 ✉️ *sachin67976@gmail.com** For Collaboration/Project or Anyth
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sachin_k_yadav) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/posts/sachin-kumar-7a98b5335_webdevelopment-internship-skillcrafttechnology-share-7472532324585259008-VbxZ/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFRRETEBZgKDsx7yH0IC_XRexuHTAsbyOrQ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sachin67976@gmail.com) 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/posts/sachin-kumar-7a98b5335_webdevelopment-internship-skillcrafttechnology-share-7472532324585259008-VbxZ/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFRRETEBZgKDsx7yH0IC_XRexuHTAsbyOrQ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sachin67976@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
