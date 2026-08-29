@@ -1,6 +1,6 @@
 
 # 💫 Hi 👋, I'm Sachin Yadav
-**A passionate fullstack Engineer || DevOps Engineer || 
+**A passionate fullstack Engineer || Devloper Engineer || 
 
 Email Me 👉 ✉️ *sachin67976@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
